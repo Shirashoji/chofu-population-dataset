@@ -1,4 +1,4 @@
-const year = 2020;
+const year = 2021;
 
 const fs = require("fs");
 
@@ -46,8 +46,8 @@ function convert(input) {
           .replace(/(\d*)\+/g, "$1歳以上");
         return {
           ageGroup: age,
-          male: rawData[`${reAge}（男）`],
-          female: rawData[`${reAge}（女）`],
+          male: Number(rawData[`${reAge}（男）`]),
+          female: Number(rawData[`${reAge}（女）`]),
         };
       }),
     });
