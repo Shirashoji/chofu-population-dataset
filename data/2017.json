@@ -1,6 +1,6 @@
 [
   {
-    "town": "総数",
+    "town": "市内全域",
     "data": [
       { "ageGroup": "0-4", "male": 5182, "female": 4983 },
       { "ageGroup": "5-9", "male": 4953, "female": 4687 },
