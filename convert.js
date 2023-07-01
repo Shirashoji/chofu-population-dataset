@@ -1,4 +1,4 @@
-const year = 2017;
+const year = 2021;
 
 const fs = require("fs");
 
@@ -39,7 +39,9 @@ function convert(input) {
         })
     );
     arr.push({
-      town: input[i]["町丁"],
+      town: input[i]["町丁"].replace(/[０-９]/g, function (s) {
+        return String.fromCharCode(s.charCodeAt(0) - 0xfee0);
+      }),
       data: ageGroups.map((age) => {
         const reAge = age
           .replace(/(\d*)-(\d*)/g, "$1～$2歳")

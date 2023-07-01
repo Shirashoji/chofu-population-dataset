@@ -26,7 +26,7 @@
     ]
   },
   {
-    "town": "飛田給１丁目",
+    "town": "飛田給1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 46, "female": 73 },
       { "ageGroup": "5-9", "male": 41, "female": 40 },
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "town": "飛田給２丁目",
+    "town": "飛田給2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 56, "female": 53 },
       { "ageGroup": "5-9", "male": 46, "female": 47 },
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "town": "飛田給３丁目",
+    "town": "飛田給3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 46, "female": 46 },
       { "ageGroup": "5-9", "male": 64, "female": 55 },
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "town": "上石原１丁目",
+    "town": "上石原1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 46, "female": 50 },
       { "ageGroup": "5-9", "male": 53, "female": 36 },
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "town": "上石原２丁目",
+    "town": "上石原2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 49, "female": 50 },
       { "ageGroup": "5-9", "male": 51, "female": 26 },
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "town": "上石原３丁目",
+    "town": "上石原3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 88, "female": 83 },
       { "ageGroup": "5-9", "male": 148, "female": 126 },
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "town": "富士見町１丁目",
+    "town": "富士見町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 25, "female": 19 },
       { "ageGroup": "5-9", "male": 32, "female": 23 },
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "town": "富士見町２丁目",
+    "town": "富士見町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 45, "female": 38 },
       { "ageGroup": "5-9", "male": 40, "female": 42 },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "town": "富士見町３丁目",
+    "town": "富士見町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 95, "female": 81 },
       { "ageGroup": "5-9", "male": 86, "female": 67 },
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "town": "富士見町４丁目",
+    "town": "富士見町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 38, "female": 32 },
       { "ageGroup": "5-9", "male": 47, "female": 48 },
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "town": "下石原１丁目",
+    "town": "下石原1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 36, "female": 42 },
       { "ageGroup": "5-9", "male": 30, "female": 41 },
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "town": "下石原２丁目",
+    "town": "下石原2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 82, "female": 79 },
       { "ageGroup": "5-9", "male": 38, "female": 32 },
@@ -338,7 +338,7 @@
     ]
   },
   {
-    "town": "下石原３丁目",
+    "town": "下石原3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 112, "female": 92 },
       { "ageGroup": "5-9", "male": 76, "female": 75 },
@@ -364,7 +364,7 @@
     ]
   },
   {
-    "town": "小島町１丁目",
+    "town": "小島町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 70, "female": 66 },
       { "ageGroup": "5-9", "male": 51, "female": 50 },
@@ -390,7 +390,7 @@
     ]
   },
   {
-    "town": "小島町２丁目",
+    "town": "小島町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 54, "female": 34 },
       { "ageGroup": "5-9", "male": 30, "female": 42 },
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "town": "小島町３丁目",
+    "town": "小島町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 86, "female": 71 },
       { "ageGroup": "5-9", "male": 73, "female": 75 },
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "town": "布田１丁目",
+    "town": "布田1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 62, "female": 49 },
       { "ageGroup": "5-9", "male": 32, "female": 32 },
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "town": "布田２丁目",
+    "town": "布田2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 32, "female": 49 },
       { "ageGroup": "5-9", "male": 36, "female": 42 },
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "town": "布田３丁目",
+    "town": "布田3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 51, "female": 44 },
       { "ageGroup": "5-9", "male": 21, "female": 21 },
@@ -520,7 +520,7 @@
     ]
   },
   {
-    "town": "布田４丁目",
+    "town": "布田4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 68, "female": 93 },
       { "ageGroup": "5-9", "male": 42, "female": 29 },
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "town": "布田５丁目",
+    "town": "布田5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 39, "female": 44 },
       { "ageGroup": "5-9", "male": 49, "female": 36 },
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "town": "布田６丁目",
+    "town": "布田6丁目",
     "data": [
       { "ageGroup": "0-4", "male": 38, "female": 44 },
       { "ageGroup": "5-9", "male": 51, "female": 50 },
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "town": "国領町１丁目",
+    "town": "国領町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 92, "female": 73 },
       { "ageGroup": "5-9", "male": 56, "female": 54 },
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "town": "国領町２丁目",
+    "town": "国領町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 52, "female": 50 },
       { "ageGroup": "5-9", "male": 36, "female": 34 },
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "town": "国領町３丁目",
+    "town": "国領町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 40, "female": 33 },
       { "ageGroup": "5-9", "male": 52, "female": 48 },
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "town": "国領町４丁目",
+    "town": "国領町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 124, "female": 110 },
       { "ageGroup": "5-9", "male": 103, "female": 93 },
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "town": "国領町５丁目",
+    "town": "国領町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 87, "female": 95 },
       { "ageGroup": "5-9", "male": 79, "female": 54 },
@@ -728,7 +728,7 @@
     ]
   },
   {
-    "town": "国領町６丁目",
+    "town": "国領町6丁目",
     "data": [
       { "ageGroup": "0-4", "male": 30, "female": 24 },
       { "ageGroup": "5-9", "male": 22, "female": 25 },
@@ -754,7 +754,7 @@
     ]
   },
   {
-    "town": "国領町７丁目",
+    "town": "国領町7丁目",
     "data": [
       { "ageGroup": "0-4", "male": 95, "female": 78 },
       { "ageGroup": "5-9", "male": 59, "female": 67 },
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "town": "国領町８丁目",
+    "town": "国領町8丁目",
     "data": [
       { "ageGroup": "0-4", "male": 59, "female": 84 },
       { "ageGroup": "5-9", "male": 102, "female": 119 },
@@ -806,7 +806,7 @@
     ]
   },
   {
-    "town": "染地１丁目",
+    "town": "染地1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 36, "female": 45 },
       { "ageGroup": "5-9", "male": 56, "female": 68 },
@@ -832,7 +832,7 @@
     ]
   },
   {
-    "town": "染地２丁目",
+    "town": "染地2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 192, "female": 177 },
       { "ageGroup": "5-9", "male": 170, "female": 178 },
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "town": "染地３丁目",
+    "town": "染地3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 61, "female": 72 },
       { "ageGroup": "5-9", "male": 99, "female": 116 },
@@ -884,7 +884,7 @@
     ]
   },
   {
-    "town": "多摩川１丁目",
+    "town": "多摩川1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 184, "female": 180 },
       { "ageGroup": "5-9", "male": 181, "female": 177 },
@@ -910,7 +910,7 @@
     ]
   },
   {
-    "town": "多摩川２丁目",
+    "town": "多摩川2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 9, "female": 18 },
       { "ageGroup": "5-9", "male": 9, "female": 16 },
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "town": "多摩川３丁目",
+    "town": "多摩川3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 84, "female": 56 },
       { "ageGroup": "5-9", "male": 112, "female": 107 },
@@ -962,7 +962,7 @@
     ]
   },
   {
-    "town": "多摩川４丁目",
+    "town": "多摩川4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 21, "female": 25 },
       { "ageGroup": "5-9", "male": 19, "female": 21 },
@@ -988,7 +988,7 @@
     ]
   },
   {
-    "town": "多摩川５丁目",
+    "town": "多摩川5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 54, "female": 57 },
       { "ageGroup": "5-9", "male": 52, "female": 53 },
@@ -1014,7 +1014,7 @@
     ]
   },
   {
-    "town": "多摩川６丁目",
+    "town": "多摩川6丁目",
     "data": [
       { "ageGroup": "0-4", "male": 23, "female": 29 },
       { "ageGroup": "5-9", "male": 28, "female": 22 },
@@ -1040,7 +1040,7 @@
     ]
   },
   {
-    "town": "多摩川７丁目",
+    "town": "多摩川7丁目",
     "data": [
       { "ageGroup": "0-4", "male": 10, "female": 16 },
       { "ageGroup": "5-9", "male": 9, "female": 15 },
@@ -1066,7 +1066,7 @@
     ]
   },
   {
-    "town": "佐須町１丁目",
+    "town": "佐須町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 14, "female": 18 },
       { "ageGroup": "5-9", "male": 24, "female": 15 },
@@ -1092,7 +1092,7 @@
     ]
   },
   {
-    "town": "佐須町２丁目",
+    "town": "佐須町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 26, "female": 20 },
       { "ageGroup": "5-9", "male": 32, "female": 30 },
@@ -1118,7 +1118,7 @@
     ]
   },
   {
-    "town": "佐須町３丁目",
+    "town": "佐須町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 22, "female": 20 },
       { "ageGroup": "5-9", "male": 29, "female": 32 },
@@ -1144,7 +1144,7 @@
     ]
   },
   {
-    "town": "佐須町４丁目",
+    "town": "佐須町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 47, "female": 56 },
       { "ageGroup": "5-9", "male": 80, "female": 60 },
@@ -1170,7 +1170,7 @@
     ]
   },
   {
-    "town": "佐須町５丁目",
+    "town": "佐須町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 9, "female": 10 },
       { "ageGroup": "5-9", "male": 9, "female": 8 },
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "town": "柴崎１丁目",
+    "town": "柴崎1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 63, "female": 76 },
       { "ageGroup": "5-9", "male": 62, "female": 60 },
@@ -1222,7 +1222,7 @@
     ]
   },
   {
-    "town": "柴崎２丁目",
+    "town": "柴崎2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 126, "female": 131 },
       { "ageGroup": "5-9", "male": 137, "female": 120 },
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "town": "菊野台１丁目",
+    "town": "菊野台1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 47, "female": 43 },
       { "ageGroup": "5-9", "male": 25, "female": 24 },
@@ -1274,7 +1274,7 @@
     ]
   },
   {
-    "town": "菊野台２丁目",
+    "town": "菊野台2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 56, "female": 76 },
       { "ageGroup": "5-9", "male": 57, "female": 41 },
@@ -1300,7 +1300,7 @@
     ]
   },
   {
-    "town": "菊野台３丁目",
+    "town": "菊野台3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 92, "female": 71 },
       { "ageGroup": "5-9", "male": 128, "female": 100 },
@@ -1326,7 +1326,7 @@
     ]
   },
   {
-    "town": "東つつじケ丘１丁目",
+    "town": "東つつじケ丘1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 11, "female": 20 },
       { "ageGroup": "5-9", "male": 9, "female": 9 },
@@ -1352,7 +1352,7 @@
     ]
   },
   {
-    "town": "東つつじケ丘２丁目",
+    "town": "東つつじケ丘2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 70, "female": 39 },
       { "ageGroup": "5-9", "male": 53, "female": 56 },
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "town": "東つつじケ丘３丁目",
+    "town": "東つつじケ丘3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 49, "female": 51 },
       { "ageGroup": "5-9", "male": 57, "female": 43 },
@@ -1404,7 +1404,7 @@
     ]
   },
   {
-    "town": "西つつじケ丘１丁目",
+    "town": "西つつじケ丘1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 111, "female": 109 },
       { "ageGroup": "5-9", "male": 85, "female": 105 },
@@ -1430,7 +1430,7 @@
     ]
   },
   {
-    "town": "西つつじケ丘２丁目",
+    "town": "西つつじケ丘2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 50, "female": 54 },
       { "ageGroup": "5-9", "male": 28, "female": 37 },
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "town": "西つつじケ丘３丁目",
+    "town": "西つつじケ丘3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 66, "female": 48 },
       { "ageGroup": "5-9", "male": 33, "female": 20 },
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "town": "西つつじケ丘４丁目",
+    "town": "西つつじケ丘4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 86, "female": 99 },
       { "ageGroup": "5-9", "male": 108, "female": 89 },
@@ -1508,7 +1508,7 @@
     ]
   },
   {
-    "town": "入間町１丁目",
+    "town": "入間町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 81, "female": 70 },
       { "ageGroup": "5-9", "male": 66, "female": 55 },
@@ -1534,7 +1534,7 @@
     ]
   },
   {
-    "town": "入間町２丁目",
+    "town": "入間町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 148, "female": 127 },
       { "ageGroup": "5-9", "male": 110, "female": 96 },
@@ -1560,7 +1560,7 @@
     ]
   },
   {
-    "town": "入間町３丁目",
+    "town": "入間町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 56, "female": 43 },
       { "ageGroup": "5-9", "male": 36, "female": 33 },
@@ -1586,7 +1586,7 @@
     ]
   },
   {
-    "town": "仙川町１丁目",
+    "town": "仙川町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 51, "female": 49 },
       { "ageGroup": "5-9", "male": 29, "female": 27 },
@@ -1612,7 +1612,7 @@
     ]
   },
   {
-    "town": "仙川町２丁目",
+    "town": "仙川町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 147, "female": 134 },
       { "ageGroup": "5-9", "male": 38, "female": 53 },
@@ -1638,7 +1638,7 @@
     ]
   },
   {
-    "town": "仙川町３丁目",
+    "town": "仙川町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 74, "female": 48 },
       { "ageGroup": "5-9", "male": 30, "female": 29 },
@@ -1664,7 +1664,7 @@
     ]
   },
   {
-    "town": "緑ケ丘１丁目",
+    "town": "緑ケ丘1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 35, "female": 47 },
       { "ageGroup": "5-9", "male": 51, "female": 42 },
@@ -1690,7 +1690,7 @@
     ]
   },
   {
-    "town": "緑ケ丘２丁目",
+    "town": "緑ケ丘2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 111, "female": 107 },
       { "ageGroup": "5-9", "male": 91, "female": 100 },
@@ -1716,7 +1716,7 @@
     ]
   },
   {
-    "town": "野水１丁目",
+    "town": "野水1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 0, "female": 1 },
       { "ageGroup": "5-9", "male": 0, "female": 4 },
@@ -1742,7 +1742,7 @@
     ]
   },
   {
-    "town": "野水２丁目",
+    "town": "野水2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 0, "female": 0 },
       { "ageGroup": "5-9", "male": 0, "female": 0 },
@@ -1794,7 +1794,7 @@
     ]
   },
   {
-    "town": "若葉町１丁目",
+    "town": "若葉町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 45, "female": 45 },
       { "ageGroup": "5-9", "male": 56, "female": 44 },
@@ -1820,7 +1820,7 @@
     ]
   },
   {
-    "town": "若葉町２丁目",
+    "town": "若葉町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 34, "female": 40 },
       { "ageGroup": "5-9", "male": 31, "female": 38 },
@@ -1846,7 +1846,7 @@
     ]
   },
   {
-    "town": "若葉町３丁目",
+    "town": "若葉町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 32, "female": 29 },
       { "ageGroup": "5-9", "male": 32, "female": 34 },
@@ -1872,7 +1872,7 @@
     ]
   },
   {
-    "town": "調布ケ丘１丁目",
+    "town": "調布ケ丘1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 40, "female": 45 },
       { "ageGroup": "5-9", "male": 32, "female": 36 },
@@ -1898,7 +1898,7 @@
     ]
   },
   {
-    "town": "調布ケ丘２丁目",
+    "town": "調布ケ丘2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 22, "female": 21 },
       { "ageGroup": "5-9", "male": 23, "female": 22 },
@@ -1924,7 +1924,7 @@
     ]
   },
   {
-    "town": "調布ケ丘３丁目",
+    "town": "調布ケ丘3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 144, "female": 144 },
       { "ageGroup": "5-9", "male": 138, "female": 128 },
@@ -1950,7 +1950,7 @@
     ]
   },
   {
-    "town": "調布ケ丘４丁目",
+    "town": "調布ケ丘4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 20, "female": 25 },
       { "ageGroup": "5-9", "male": 26, "female": 20 },
@@ -1976,7 +1976,7 @@
     ]
   },
   {
-    "town": "深大寺元町１丁目",
+    "town": "深大寺元町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 17, "female": 18 },
       { "ageGroup": "5-9", "male": 23, "female": 15 },
@@ -2002,7 +2002,7 @@
     ]
   },
   {
-    "town": "深大寺元町２丁目",
+    "town": "深大寺元町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 19, "female": 16 },
       { "ageGroup": "5-9", "male": 25, "female": 26 },
@@ -2028,7 +2028,7 @@
     ]
   },
   {
-    "town": "深大寺元町３丁目",
+    "town": "深大寺元町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 25, "female": 32 },
       { "ageGroup": "5-9", "male": 25, "female": 30 },
@@ -2054,7 +2054,7 @@
     ]
   },
   {
-    "town": "深大寺元町４丁目",
+    "town": "深大寺元町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 23, "female": 27 },
       { "ageGroup": "5-9", "male": 42, "female": 30 },
@@ -2080,7 +2080,7 @@
     ]
   },
   {
-    "town": "深大寺元町５丁目",
+    "town": "深大寺元町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 5, "female": 7 },
       { "ageGroup": "5-9", "male": 5, "female": 13 },
@@ -2106,7 +2106,7 @@
     ]
   },
   {
-    "town": "深大寺北町１丁目",
+    "town": "深大寺北町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 20, "female": 27 },
       { "ageGroup": "5-9", "male": 21, "female": 15 },
@@ -2132,7 +2132,7 @@
     ]
   },
   {
-    "town": "深大寺北町２丁目",
+    "town": "深大寺北町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 24, "female": 20 },
       { "ageGroup": "5-9", "male": 13, "female": 11 },
@@ -2158,7 +2158,7 @@
     ]
   },
   {
-    "town": "深大寺北町３丁目",
+    "town": "深大寺北町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 13, "female": 14 },
       { "ageGroup": "5-9", "male": 21, "female": 17 },
@@ -2184,7 +2184,7 @@
     ]
   },
   {
-    "town": "深大寺北町４丁目",
+    "town": "深大寺北町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 24, "female": 23 },
       { "ageGroup": "5-9", "male": 26, "female": 28 },
@@ -2210,7 +2210,7 @@
     ]
   },
   {
-    "town": "深大寺北町５丁目",
+    "town": "深大寺北町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 24, "female": 24 },
       { "ageGroup": "5-9", "male": 28, "female": 31 },
@@ -2236,7 +2236,7 @@
     ]
   },
   {
-    "town": "深大寺北町６丁目",
+    "town": "深大寺北町6丁目",
     "data": [
       { "ageGroup": "0-4", "male": 49, "female": 42 },
       { "ageGroup": "5-9", "male": 74, "female": 69 },
@@ -2262,7 +2262,7 @@
     ]
   },
   {
-    "town": "深大寺北町７丁目",
+    "town": "深大寺北町7丁目",
     "data": [
       { "ageGroup": "0-4", "male": 49, "female": 36 },
       { "ageGroup": "5-9", "male": 33, "female": 37 },
@@ -2288,7 +2288,7 @@
     ]
   },
   {
-    "town": "深大寺東町１丁目",
+    "town": "深大寺東町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 40, "female": 32 },
       { "ageGroup": "5-9", "male": 35, "female": 38 },
@@ -2314,7 +2314,7 @@
     ]
   },
   {
-    "town": "深大寺東町２丁目",
+    "town": "深大寺東町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 26, "female": 30 },
       { "ageGroup": "5-9", "male": 28, "female": 27 },
@@ -2340,7 +2340,7 @@
     ]
   },
   {
-    "town": "深大寺東町３丁目",
+    "town": "深大寺東町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 32, "female": 24 },
       { "ageGroup": "5-9", "male": 37, "female": 43 },
@@ -2366,7 +2366,7 @@
     ]
   },
   {
-    "town": "深大寺東町４丁目",
+    "town": "深大寺東町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 42, "female": 38 },
       { "ageGroup": "5-9", "male": 36, "female": 37 },
@@ -2392,7 +2392,7 @@
     ]
   },
   {
-    "town": "深大寺東町５丁目",
+    "town": "深大寺東町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 22, "female": 33 },
       { "ageGroup": "5-9", "male": 27, "female": 22 },
@@ -2418,7 +2418,7 @@
     ]
   },
   {
-    "town": "深大寺東町６丁目",
+    "town": "深大寺東町6丁目",
     "data": [
       { "ageGroup": "0-4", "male": 30, "female": 23 },
       { "ageGroup": "5-9", "male": 30, "female": 29 },
@@ -2444,7 +2444,7 @@
     ]
   },
   {
-    "town": "深大寺東町７丁目",
+    "town": "深大寺東町7丁目",
     "data": [
       { "ageGroup": "0-4", "male": 53, "female": 57 },
       { "ageGroup": "5-9", "male": 68, "female": 69 },
@@ -2470,7 +2470,7 @@
     ]
   },
   {
-    "town": "深大寺東町８丁目",
+    "town": "深大寺東町8丁目",
     "data": [
       { "ageGroup": "0-4", "male": 25, "female": 18 },
       { "ageGroup": "5-9", "male": 28, "female": 17 },
@@ -2496,7 +2496,7 @@
     ]
   },
   {
-    "town": "深大寺南町１丁目",
+    "town": "深大寺南町1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 12, "female": 5 },
       { "ageGroup": "5-9", "male": 14, "female": 10 },
@@ -2522,7 +2522,7 @@
     ]
   },
   {
-    "town": "深大寺南町２丁目",
+    "town": "深大寺南町2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 5, "female": 8 },
       { "ageGroup": "5-9", "male": 15, "female": 14 },
@@ -2548,7 +2548,7 @@
     ]
   },
   {
-    "town": "深大寺南町３丁目",
+    "town": "深大寺南町3丁目",
     "data": [
       { "ageGroup": "0-4", "male": 37, "female": 43 },
       { "ageGroup": "5-9", "male": 98, "female": 110 },
@@ -2574,7 +2574,7 @@
     ]
   },
   {
-    "town": "深大寺南町４丁目",
+    "town": "深大寺南町4丁目",
     "data": [
       { "ageGroup": "0-4", "male": 18, "female": 9 },
       { "ageGroup": "5-9", "male": 18, "female": 18 },
@@ -2600,7 +2600,7 @@
     ]
   },
   {
-    "town": "深大寺南町５丁目",
+    "town": "深大寺南町5丁目",
     "data": [
       { "ageGroup": "0-4", "male": 35, "female": 37 },
       { "ageGroup": "5-9", "male": 39, "female": 33 },
@@ -2626,7 +2626,7 @@
     ]
   },
   {
-    "town": "八雲台１丁目",
+    "town": "八雲台1丁目",
     "data": [
       { "ageGroup": "0-4", "male": 27, "female": 30 },
       { "ageGroup": "5-9", "male": 35, "female": 36 },
@@ -2652,7 +2652,7 @@
     ]
   },
   {
-    "town": "八雲台２丁目",
+    "town": "八雲台2丁目",
     "data": [
       { "ageGroup": "0-4", "male": 16, "female": 24 },
       { "ageGroup": "5-9", "male": 13, "female": 12 },
