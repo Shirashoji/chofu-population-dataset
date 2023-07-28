@@ -1,10 +1,10 @@
-const year = 2017;
+const year = 2021;
 const fs = require("fs");
 
 const data = JSON.parse(fs.readFileSync(`./normalized/${year}.json`, "utf8"));
 
 function convert(input) {
-  let output = {};
+  let output = [];
   const chofu = input.filter((e) => e.town === "市内全域")[0];
   const populationData = input.filter((e) => e.town !== "市内全域");
 
@@ -52,7 +52,7 @@ function convert(input) {
       })
       .reduce((sum, element) => sum + element, 0);
 
-    output[town.town] = sumofFeat;
+    output.push({ town: town.town, feature: sumofFeat });
   }
   return output;
 }
