@@ -1,4 +1,4 @@
-const year = 2021;
+const year = 2017;
 const fs = require("fs");
 
 const data = JSON.parse(fs.readFileSync(`./normalized/${year}.json`, "utf8"));
@@ -40,13 +40,15 @@ function convert(input) {
         // // console.log(town.data.filter((item) => item.ageGroup === e));
         // console.log(chofu.data.filter((item) => item.ageGroup === e));
         return (
-          Math.abs(
+          Math.pow(
             town.data.filter((item) => item.ageGroup === e)[0].male -
-              chofu.data.filter((item) => item.ageGroup === e)[0].male
+              chofu.data.filter((item) => item.ageGroup === e)[0].male,
+            2
           ) +
-          Math.abs(
+          Math.pow(
             town.data.filter((item) => item.ageGroup !== e)[0].female -
-              chofu.data.filter((item) => item.ageGroup === e)[0].female
+              chofu.data.filter((item) => item.ageGroup === e)[0].female,
+            2
           )
         );
       })
