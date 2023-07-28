@@ -52,7 +52,7 @@ function convert(input) {
       })
       .reduce((sum, element) => sum + element, 0);
 
-    output.push({ town: town.town, feature: sumofFeat });
+    output.push({ town: town.town, value: sumofFeat });
   }
   return output;
 }
