@@ -1,4 +1,4 @@
-const year = 2017;
+const year = process.argv[2];
 const fs = require("fs");
 
 const data = JSON.parse(fs.readFileSync(`./normalized/${year}.json`, "utf8"));
@@ -34,6 +34,9 @@ function convert(input) {
 
   for (let i = 0; i < populationData.length; i++) {
     const town = populationData[i];
+    if (town.town === "市内全域") continue;
+    if (Math.max(...town.data.map((e) => [e.male, e.female]).flat()) === 0)
+      continue;
     const sumofFeat = ageGroups
       .map((e) => {
         // console.log(e);
