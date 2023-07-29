@@ -17,7 +17,7 @@ def cosSim(arr1, arr2):
 
 def main(inname, outname):
     data = json2dict(inname)
-    outdata = {}
+    outdata = []
     
     if (data[0]["town"] == "市内全域"):
         chofu = data[0]
@@ -32,7 +32,7 @@ def main(inname, outname):
 
         # 居住者がいない時全て0のコサイン類似度となるためJSONにしない
         if not np.isnan(cossim):
-            outdata[data[i]["town"]] = cossim
+            outdata.append({"town": data[i]["town"], "value": cossim})
     dict2json(outdata, outname)
 
 
