@@ -33,7 +33,7 @@ function convert(input) {
   ];
 
   for (let i = 0; i < populationData.length; i++) {
-    const town = input[i];
+    const town = populationData[i];
     const sumofFeat = ageGroups
       .map((e) => {
         // console.log(e);
