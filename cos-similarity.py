@@ -32,7 +32,7 @@ def main(inname, outname):
 
         # 居住者がいない時全て0のコサイン類似度となるためJSONにしない
         if not np.isnan(cossim):
-            outdata.append({"town": data[i]["town"], "value": cossim})
+            outdata.append({"town": data[i]["town"], "value": 1-cossim})
     dict2json(outdata, outname)
 
 
