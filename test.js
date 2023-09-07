@@ -1,6 +1,32 @@
-var str = "100+";
-// var str = "10-20";
-var result = str
-  .replace(/(\d*)-(\d*)/g, "$1~$2歳")
-  .replace(/(\d*)\+/g, "$1歳以上");
-console.log(result); // 結果: 10~20歳
+function convert(input) {
+    let output = [];
+    for (let i = 0; i < input.length; i++) {
+        const populationData = input[i];
+        // const sum = populationData.data
+        //     .map((e) => [e.male, e.female])
+        //     .flat()
+        //     .reduce((sum, element) => sum + element, 0);
+
+        output.push({
+            town: populationData.town,
+            data: [
+                ...populationData.data.map(({ ageGroup, male, female }) => ({
+                    ageGroup,
+                    male: Math.atan(male / 2),
+                    female: Math.atan(female / 2),
+                })),
+            ],
+        });
+    }
+    return output;
+}
+
+const fs = require("fs");
+
+for (let year = 2017; year <= 2021; year++) {
+    const data = JSON.parse(
+        fs.readFileSync(`./normalized/${year}.json`, "utf8")
+    );
+    const convertData = JSON.stringify(convert(data));
+    fs.writeFileSync(`./atan/${year}.json`, convertData);
+}
