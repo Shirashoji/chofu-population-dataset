@@ -19,7 +19,7 @@ function convert(input) {
         // });
         output.push({
             town: input[i].town,
-            value: input[i].value,
+            value: Math.atan((input[i].value + 2) * 4 - 8),
         });
     }
     return output;
@@ -27,7 +27,7 @@ function convert(input) {
 
 const fs = require("fs");
 
-for (let year = 2017; year <= 2021; year++) {
+for (let year = 2017; year <= 2024; year++) {
     const data = JSON.parse(
         fs.readFileSync(`./mapFeature/${year}.json`, "utf8")
     );
