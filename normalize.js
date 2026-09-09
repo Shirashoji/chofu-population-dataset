@@ -1,4 +1,4 @@
-const year = 2021;
+const year = process.argv[2];
 const fs = require("fs");
 
 const data = JSON.parse(fs.readFileSync(`./data/${year}.json`, "utf8"));
